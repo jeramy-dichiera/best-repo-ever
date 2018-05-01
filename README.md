@@ -1,3 +1,3 @@
 # best-repo-ever
 Some new stuff
-merge conflict from new-branch-1
+Changes in new-branch-2
