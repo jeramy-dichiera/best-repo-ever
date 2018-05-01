@@ -1,3 +1,3 @@
 # best-repo-ever
 Some new stuff
-Changes in master
+Changes in new-branch-2
